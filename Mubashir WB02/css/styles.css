@@ -1,0 +1,30 @@
+
+body {
+    font-family: "Montserrat";
+}
+
+#title {
+    background-color: aquamarine;
+
+}
+
+nav img{
+    width: 150px;   
+}
+
+.title-image {
+    width: 60%;
+}
+
+#content {
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+    bottom: 50px;
+}
+
+#footer {
+    padding: 3% 13%;
+    background-color: aquamarine;
+    text-align: center;
+}
